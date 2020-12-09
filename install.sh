@@ -4,13 +4,13 @@ sudo apt-get update && sudo apt-get install vlc vlc-plugin-* -y && sudo apt-get 
 
 sudo apt-get install unzip
 
-wget https://raw.githubusercontent.com/marconimp/18.12/master/flussonic-python_18.11_amd64.deb
-wget https://raw.githubusercontent.com/marconimp/18.12/master/flussonic-ffmpeg-base_4.6_amd64.deb
-wget https://raw.githubusercontent.com/marconimp/18.12/master/flussonic-ffmpeg_4.6_amd64.deb
-wget https://raw.githubusercontent.com/marconimp/18.12/master/flussonic-erlang_21.1.4_amd64.deb
-wget https://raw.githubusercontent.com/marconimp/18.12/master/flussonic_18.12.1_amd64.deb
+wget https://raw.githubusercontent.com/moore1223/toperweb/main/flussonic-python_18.11_amd64.deb
+wget https://raw.githubusercontent.com/moore1223/toperweb/main/flussonic-ffmpeg-base_4.6_amd64.deb
+wget https://raw.githubusercontent.com/moore1223/toperweb/main/flussonic-ffmpeg_4.6_amd64.deb
+wget https://raw.githubusercontent.com/moore1223/toperweb/main/flussonic-erlang_21.1.4_amd64.deb
+wget https://raw.githubusercontent.com/moore1223/toperweb/main/flussonic_18.12.1_amd64.deb
 
-wget https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/hack.zip
+wget https://raw.githubusercontent.com/moore1223/toperweb/main/hack.zip
 
 unzip hack.zip
 
